@@ -1,15 +1,13 @@
-## Hello Aadi
+# TITLE : GIT and GITHUB
 
-TITLE: GIT AND GITHUB
+## How to commit into github
 
+** - You have to initilize the repo **
 '''
-If I want to track then type
-
+git init
+'''
+** - Wanted to add the files **
+'''
 git add .
-'''
-
-'''
-Commit means that you commit the code
-
-git commit
+ 
 '''
