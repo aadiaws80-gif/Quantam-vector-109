@@ -1,14 +1,12 @@
-# TITLE : GIT and GITHUB
+# TITLE : GIT AND GITHUB
 
-## How to commit into github
+## How to learn git
 
-- You have to initilize the repo
+- How to know that git is there so command 
 ```
 git init
 ```
-
-- Wanted to add the files
-
+- How to track file in git then command 
 ```
 git add .
 ```
